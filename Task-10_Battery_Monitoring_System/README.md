@@ -4,7 +4,7 @@
 Monitor battery voltage using Arduino and display the battery status.
 
 ## Components Used
-- Arduino Uno
+- pico
 - Battery (or Potentiometer for simulation)
 - Resistors
 - Breadboard
